@@ -18,7 +18,7 @@ const filterArticles = arr => arr.filter(noArticles);
 console.log(filterArticles(breakout(capitalize(noPunct(trim(str))))));
 ```
 
-output:
+**output:**
 ```
 Info: Start process (7:41:37 PM)
 [
@@ -73,7 +73,7 @@ console.log(prepareString1(str));
 
 ```
 
-output:
+**output:**
 ```
 Info: Start process (7:43:44 PM)
 [
@@ -128,7 +128,7 @@ console.log(prepareString2(str));
 
 ```
 
-output:
+**output:**
 ```
 Info: Start process (7:44:25 PM)
 [
